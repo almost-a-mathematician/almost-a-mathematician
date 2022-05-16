@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**almost-a-mathematician/almost-a-mathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![trophy](https://github-profile-trophy.vercel.app/?username=almost-a-mathematician&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![https://i.imgur.com/FOowYxMb.jpg](***)
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
