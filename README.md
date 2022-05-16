@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=almost-a-mathematician&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![https://i.imgur.com/FOowYxMb.jpg](***)
+![imgur Image](https://i.imgur.com/FOowYxMb.jpg)
 
 
 Here are some ideas to get you started:
